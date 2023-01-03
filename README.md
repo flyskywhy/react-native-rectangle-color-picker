@@ -13,9 +13,17 @@ A color picker on diamond or rectangle palette.
 
 ## Install
 
+For RN >= 0.60
 ```shell
-npm i --save react-native-rectangle-color-picker
+npm i --save react-native-rectangle-color-picker react-native-gesture-handler
 ```
+
+For RN < 0.60
+```shell
+npm i --save react-native-rectangle-color-picker@1.x react-native-gesture-handler@1.2.2
+```
+
+And be aware of https://github.com/software-mansion/react-native-gesture-handler/issues/1164 if you use react-native-web and want to slide on web.
 
 ## Usage
 
