@@ -1,6 +1,6 @@
 {
   "name": "react-native-rectangle-color-picker",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "A color picker on diamond or rectangle palette",
   "main": "index.js",
   "scripts": {
